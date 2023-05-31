@@ -1,0 +1,43 @@
+.btn {
+    background-color: green;
+  }
+
+
+.fondo {
+  background-image: url(../img/fondo.jpg);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+}
+  
+.login-table {
+  margin-top: 20vh;
+
+  background-image: url(../img/login.jpg);
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  
+}
+
+.login-table h2 {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #ffc107;
+  color: #000;
+  size: 2;
+}
+
+.navbar-brand {
+  color: #000;
+  font-weight: 1000;
+}
+
+.nav-link {
+  color: #000;
+}
