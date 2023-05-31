@@ -11,4 +11,5 @@ git add --> enviar tus archivos modificados o creados para tu stage area
 git push -u origin "nombre de la rama"-->para actualizar los archivos modificados o agregar nuevos o se actualizan remotamente las ramas
 git commit -m "texto que desees version 1...." -->realizar un commit
 git branch -D nombre-rama --> eliminar rama de repositorio local
-git push origin :nombre-rama -->eliminar rama de repositorio remoto
+git push origin :nombre-rama -->eliminar rama de repositorio remoto (tener cuidado con el espacio que se deja entre origin :nombre-rama
+ya que se tiene que dejar el espacio entre origin y los dos puntos porque sino no funcionara.
