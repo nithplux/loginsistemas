@@ -13,3 +13,4 @@ git commit -m "texto que desees version 1...." -->realizar un commit
 git branch -D nombre-rama --> eliminar rama de repositorio local
 git push origin :nombre-rama -->eliminar rama de repositorio remoto (tener cuidado con el espacio que se deja entre origin :nombre-rama
 ya que se tiene que dejar el espacio entre origin y los dos puntos porque sino no funcionara.
+git branch -m developer -->cambiar nombre a la rama 
